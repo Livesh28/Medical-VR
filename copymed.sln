@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d8013184-5642-28a6-c8f3-f46955cc07d9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{74eac52b-4fa1-a221-3b14-51414e999d80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BNGHandPoser", "BNGHandPoser.csproj", "{73f25aca-0e03-a70e-f590-4e2cfc13b2a7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BNGHandPoseID", "BNGHandPoseID.csproj", "{d0e85f58-92cc-790e-ce1e-8183d304da71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d8013184-5642-28a6-c8f3-f46955cc07d9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d8013184-5642-28a6-c8f3-f46955cc07d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74eac52b-4fa1-a221-3b14-51414e999d80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74eac52b-4fa1-a221-3b14-51414e999d80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73f25aca-0e03-a70e-f590-4e2cfc13b2a7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73f25aca-0e03-a70e-f590-4e2cfc13b2a7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d0e85f58-92cc-790e-ce1e-8183d304da71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d0e85f58-92cc-790e-ce1e-8183d304da71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
